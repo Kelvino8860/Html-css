@@ -1,0 +1,25 @@
+.install{
+  font-family: Arial;
+  font-size: 18px;
+  font-weight: bold;
+  color: rgb(230, 230, 230);
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+
+.add-info{
+  font-family: Arial;
+  font-size: 12px;
+  width: 280px;
+  color: gray;
+  margin-left: 20px;
+  margin-top: 0px;
+  margin-bottom: 20px;
+}
+
+.div-add{
+  border-width: 1px;
+  background-color: rgb(29, 28, 28);
+  border-style: solid;
+  width: 300px;
+}

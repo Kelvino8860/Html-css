@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Flex-Box Practice</title>
+    <style>
+      .main-flex{
+        display: flex;
+        flex-direction: row;
+        height: 70px;
+      }
+
+      .element-1{
+        background-color: lightblue;
+        width: 100px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+      }
+      
+      .element1-flex{
+         background-color: black;
+         color: white;
+         width: 40px;
+         padding-left: 5px;
+      }
+
+      .element-2{
+        background-color: lightpink;
+        width: 200px;
+        height: 70px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+      }
+
+
+      .element2-flex{
+        background-color: black;
+         color: white;
+         padding-left: 5px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="main-flex">
+        <div class="element-1">
+          <div class="element1-flex">item</div>
+        </div>
+      
+
+        <div class="element-2">
+            <div class="element2-flex">row2</div>
+            <div class="element2-flex">row2</div>
+            </div>
+    </div>
+  </body>
+</html>

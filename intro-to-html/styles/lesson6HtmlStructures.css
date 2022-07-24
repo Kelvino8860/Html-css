@@ -1,0 +1,15 @@
+.line-one{
+  font-family: Montserrat;
+  font-weight: bold;
+  font-size: 25px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+.line-two{
+  font-family: Montserrat;
+  color: rgb(73, 70, 70);
+  font-size: 13px;
+  text-decoration: underline;
+  margin-left: 170px;
+  margin-top: 0px;
+}

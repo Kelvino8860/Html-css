@@ -1,0 +1,49 @@
+.first-name{
+  width: 85px;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: rgb(230, 224, 224);
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.second-name{
+ width: 85px;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: rgb(230, 224, 224);
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.email-input{
+ display: block;
+ width: 199px;
+ margin-top: 8px;
+ border-radius: 5px;
+ border-style: solid;
+ border-color: rgb(230, 224, 224);
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.signup-button{
+   background-color: rgb(98, 98, 207);
+   color: white;
+   display: block;
+   border-radius: 7px;
+   border-color: rgb(98, 98, 207);
+   border-style: solid;
+    margin-top: 8px;
+    width: 223px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 10px;
+    padding-right: 10px;
+}

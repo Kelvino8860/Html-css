@@ -1,0 +1,16 @@
+.kitty-image{
+  width: 200px;
+  border-radius: 15px;
+}
+.twocats-image{
+  width: 200px;
+  height: 200px;
+  object-position: center;
+  margin-left: 50px;
+}
+.num-image{
+  width: 200px;
+  height: 200px;
+  margin-left: 50px;
+  border-radius: 200px;
+}

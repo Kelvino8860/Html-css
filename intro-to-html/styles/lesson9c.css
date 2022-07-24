@@ -1,0 +1,11 @@
+.tittle{
+  font-family: Arial;
+}
+.div-border{
+  border-width: 1px;
+  border-style: solid;
+  width: 300px;
+  border-color: rgb(150,150,150);
+  padding-left: 15px;
+  padding-bottom: 20px;
+}
